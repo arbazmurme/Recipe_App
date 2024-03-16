@@ -3,7 +3,6 @@ Recipe Finder is a React application for browsing, searching, and managing recip
 
 ## Live Demo
 ![Recipe App](./public/website.png)
-https://github.com/arbazmurme/Recipe_App/blob/main
 Check out the live demo [here](https://arbazmurme-recipe.netlify.app/).
 
 ## Technologies Used
