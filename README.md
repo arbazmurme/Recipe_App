@@ -16,7 +16,7 @@ To run this project locally, follow these steps:
 1. Clone the repository: `git clone https://github.com/yourusername/your-repository.git`
 2. Navigate to the project directory: `cd your-repository`
 3. Install dependencies: `npm install`
-4. Start the development server: `npm start`
+4. Start the development server: `npm run dev`
 
 ## Contributing
 Contributions are welcome! Feel free to submit bug reports, feature requests, or pull requests.
