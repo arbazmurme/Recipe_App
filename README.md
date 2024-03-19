@@ -13,8 +13,8 @@ Check out the live demo [here](https://arbazmurme-recipe.netlify.app/)
 
 ## Installation
 To run this project locally, follow these steps:
-1. Clone the repository: `git clone https://github.com/yourusername/your-repository.git`
-2. Navigate to the project directory: `cd your-repository`
+1. Clone the repository: `git clone https://github.com/arbazmurme/Recipe_App.git`
+2. Navigate to the project directory: `cd Recipe_App`
 3. Install dependencies: `npm install`
 4. Start the development server: `npm run dev`
 
